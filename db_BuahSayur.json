@@ -1,0 +1,115 @@
+{
+    "buah": [
+    {
+      "id": "1",
+      "buah":"Apel",
+      "description_buah":"Buah apel merupakan buah yang bagian luarnya berwarna merah cerah dan biasanya sudah matang dan bisa dikonsumsi, namun ada juga buah apel yang ketika matangnya berwarna hijau atau kuning.",
+      "gambarbuah":"https://i0.wp.com/decyra.com/wp-content/uploads/2019/05/gambar-buah-apel.jpg?resize=768%2C595&ssl=1"
+    },
+    {
+      "id": "2",
+      "buah":"Anggur",
+      "description_buah":"Buah anggur merupakan buah yang bisa tumbuh di daerah dataran rendah, tanaman buah anggur bisa tumbuh saat musim kemarau, antara bulan ke 4 sampai bulan ke 7. Supaya tanaman ini bisa tumbuh, dibutuhkan sinar matahari langsung. Dengan hal tersenut buah yang dihasilkan menjadi lezat.",
+      "gambarbuah":"https://i0.wp.com/decyra.com/wp-content/uploads/2019/05/buah-anggur.jpg?resize=768%2C512&ssl=1"
+    },
+    {
+      "id": "3",
+      "buah":"Alpukat",
+      "description_buah":"Buah alpuket merupakan buah yang memiliki kandungan manfaat, seperti untuk menangkal berbagai racun dan radikal bebas di dalam tubuh manusia. Ukuran buah alpuket ini memiliki kisaran 7 sampai 20 cm dan memiliki berat rata-rata 100 sampai 1000 gram dengan biji yang besar di dalamnya.",
+      "gambarbuah":"https://i0.wp.com/decyra.com/wp-content/uploads/2019/05/gambar-buah-alpukat.jpg?resize=768%2C523&ssl=1"
+    },
+    {
+      "id": "4",
+      "buah":"Belimbing",
+      "description_buah":"Buah belimbing merupakan jenis buah yang memiliki warna kuning kehijauan dan rasa dari buah belimbing adalah manis sedikut asam. Bentuk buahnya seperti bintang yang mempunyai sudut.",
+      "gambarbuah":"https://i0.wp.com/decyra.com/wp-content/uploads/2019/05/gambar-buah-belimbing.jpg?resize=768%2C512&ssl=1"
+    },
+    {
+      "id": "5",
+      "buah":"Ceri",
+      "description_buah":"Buah ceri sering disebut juga dengan buah kersen. Buah ini banyak ditemukan di penjuru tanah air. Pohon dari buah ini memiliki dahan yang rindah sehingga cocok untuk dijadikan jenis pohon peneduh.",
+      "gambarbuah":"https://i0.wp.com/decyra.com/wp-content/uploads/2019/05/buah-ceri.jpg?resize=768%2C506&ssl=1"
+    },
+    {
+      "id": "6",
+      "buah":"Coklat",
+      "description_buah":"Buah coklat merupakan bahan dasar pembuatan es krim, susu, makanan ringan dan sebagainya. Buah ini dihasilkan dari pohon kakao dan menghasilkan buah kakao, tetapi kebanyakan masyarakat menyebutnya dengan buah coklat.",
+      "gambarbuah":"https://i0.wp.com/decyra.com/wp-content/uploads/2019/05/buah-kakao.jpg?resize=768%2C431&ssl=1"
+    },
+    {
+      "id": "7",
+      "buah":"Duku",
+      "description_buah":"Buah duku merupakan buah yang berasal dari Asia Tenggara. Buah ini mirip dengan buah kokosan, celoring, langset dan pisitan. Buah ini menjadi ciri dari daerah Sumatera Selatan.",
+      "gambarbuah":"https://i0.wp.com/decyra.com/wp-content/uploads/2019/05/buah-duku.jpg?resize=768%2C576&ssl=1"
+    },
+    {
+      "id": "8",
+      "buah":"Durian",
+      "description_buah":"Buah durian merupakan jenis buah yang memiliki kulit yang keras dan juga berduri. Rasa dari buah durian sangat lezat dan nikmat, maka wajar banyak orang yang menyukai buah ini.",
+      "gambarbuah":"https://i0.wp.com/decyra.com/wp-content/uploads/2019/05/gambar-buah-durian.jpg?w=670&ssl=1"
+    },
+    {
+      "id": "9",
+      "buah":"Jeruk",
+      "description_buah":"Buah jeruk merupakan jenis buah yang memiliki kandungan Vitamin C, mineral dan juga kalsium. Buah ini memiliki berbagai macam jenis, seperti jeruk bali, jeruk lemon, jeruk nipis, jeruk mandarin, jeruk sunkist dan banyak lagi.",
+      "gambarbuah":"https://i0.wp.com/decyra.com/wp-content/uploads/2019/05/gambar-buah-jeruk.jpg?resize=768%2C433&ssl=1"
+    }
+  ],
+
+  "sayur" : [
+    {
+      "id": "1",
+      "sayur":"Wortel",
+      "description_sayur":"Sayuran berwarna jingga ini sering diolah menjadi sayur sop, capcay, hingga dibuat jus.",
+      "gambarsayur":"https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/wortel.jpg?resize=300%2C152&ssl=1"
+    },
+    {
+      "id": "2",
+      "sayur":"Brokoli",
+      "description_sayur":"Meskipun berasal dari Italia, kini Anda dapat dengan mudah menemukan brokoli dan kembang kol di pasaran. Bagian yang dimakan dari kedua sayuran ini adalah bagian bunganya. Bedanya, brokoli memiliki bunga berwarna hijau, sementara kembang kol berwarna putih. Selain diolah sebagai makanan, brokoli dan kembang kol juga dapat dijadikan sebagai jus.",
+      "gambarsayur":"https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/brokoli.jpg?resize=300%2C169&ssl=1"
+    },
+    {
+      "id": "3",
+      "sayur":"Sawi Caisim",
+      "description_sayur":"Ada begitu banyak jenis sawi yang dapat Anda temukan di Indonesia, lho. Salah satu yang paling populer adalah sawi caisim. Sawi caisim biasanya sering dijadikan sebagai bahan pelengkap pada masakan mie. Selain itu, sawi caisim juga dapat diolah dalam berbagai masakan, seperti tumisan hingga sayur berkuah.",
+      "gambarsayur":"https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/caisim.jpg?resize=300%2C225&ssl=1"
+    },
+    {
+      "id": "4",
+      "sayur":"Daun Singkong",
+      "description_sayur":"Sayuran hijau ini sangat mudah dijumpai di pasaran. Daun singkong merupakan salah satu jenis sayuran yang dapat diolah menjadi berbagai masakan sederhana. Umumnya, sayuran ini sering dihidangkan di rumah makan padang.",
+      "gambarsayur":"https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/daun-singkong.jpg?resize=273%2C192&ssl=1"
+    },
+    {
+      "id": "5",
+      "sayur":"Bayam Hijau",
+      "description_sayur":"Anda pasti sudah tidak asing lagi ya dengan sayuran yang satu ini? Bayam memang sangat mudah ditemukan dan diolah ke dalam aneka masakan. Di Indonesia, bayam hijau memiliki dua varian, yaitu bayam petik (daunnya lebar, besar, dan tumbuh tegak), dan bayam cabut (daunnya berukuran kecil, batangnya juga bisa dimakan). Biasanya bayam petik sering dijadikan campuran gado-gado, urap, atau pecel. Sedangkan bayam cabut sering diolah menjadi sayur bening.",
+      "gambarsayur":"https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/Bayam-HD.jpg?resize=300%2C225&ssl=1"
+    },
+    {
+      "id": "6",
+      "sayur":"Kangkung",
+      "description_sayur":"Sama seperti bayam, kangkung juga termasuk sayuran yang sangat mudah ditemukan di pasaran. Kangkung juga dapat diolah menjadi aneka masakan. Bahkan di Lombok, ada menu khas plecing kangkung yang  disajikan dengan sambal tomat terasi.",
+      "gambarsayur":"https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/kangkung.jpg?resize=300%2C213&ssl=1"
+    },
+    {
+      "id": "7",
+      "sayur":"Kol atau Kubis",
+      "description_sayur":"Sayuran kol atau kubis memang tetap nikmat meski dikonsumsi mentah. Namun, kol juga dapat diolah dengan ditumis atau dicampur bersama sop. Terdapat beragam jenis kol yang bisa Anda temukan di pasaran, yaitu kol hijau, kol savoy, kol ungu atau kol napa.",
+      "gambarsayur":"https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/5ca367b5230000a5006da284.jpeg?resize=300%2C168&ssl=1"
+    },
+    {
+      "id": "8",
+      "sayur":"Genjer",
+      "description_sayur":"Bagi Anda yang tinggal diperkotaan, sayuran ini mungkin masih terlihat asing karena genjer tumbuh di areal persawahan. Meskipun begitu, genjer sudah menjadi sayur favorit sebagian masyarakat. Genjer dapat diolah menjadi lalapan atau ditumis seperti kangkung. Anda bisa membeli sayur ini di pasar-pasar tradisional.",
+      "gambarsayur":"https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/genjer.jpg?resize=251%2C251&ssl=1"
+    },
+    {
+      "id": "9",
+      "sayur":"Kacang Panjang",
+      "description_sayur":"Sayuran hijau yang banyak ditemukan di Indonesia berikutnya adalah kacang panjang. Biasanya kacang panjang sering dimasak dengan cara ditumis atau dibuat lalapan.",
+      "gambarsayur":"https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/longbeans.jpg?resize=300%2C200&ssl=1"
+    }
+  ]
+}

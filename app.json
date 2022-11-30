@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "TA-PPB",
-    "slug": "TA-PPB",
+    "name": "Wiki Buah - Sayur",
+    "slug": "TA_ppb_BuahSayurIiki",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/buah-sayur1.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/buah-sayur1.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#98de8c"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,12 +22,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/buah-sayur1.png",
+        "backgroundColor": "#98de8c"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/buah-sayur1.png"
     }
   }
 }
